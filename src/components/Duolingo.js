@@ -32,6 +32,7 @@ class Duolingo extends Component {
                                              label="Options" required/>
 
                                     <Button type="button" color="outline-danger">Add</Button>
+                                    <Button type="button" color="outline-success">2</Button>
                                 </AvForm>
 
 
